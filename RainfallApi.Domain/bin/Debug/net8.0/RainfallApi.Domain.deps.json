@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RainfallApi.Domain/1.0.0": {
+        "runtime": {
+          "RainfallApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RainfallApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
