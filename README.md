@@ -8,13 +8,19 @@ Project Description: An API which provides rainfall reading data
 4. RainfallApi.Testing
 
 # Dependencies:
+
 A. RainfallApi (Web API)
    Projects:
+   
    1. RainfallApi.Domain
+      
    2. RainfallApi.Infrastructure
+      
    Packages:
    1. Swashbuckle.AspNetCore
+      
    2. Swashbuckle.AspNetCore.Annotations
+      
 B. RainfallApi.Domain
    Projects: (none)
    Packages: (none)
