@@ -42,8 +42,11 @@ D. RainfallApi.Testing
 1. Build RainfallApi.Testing
 2. Click/view the Test Explorer from Visual Studio
 3. Run All Tests
+   
    3.1 MeasureServiceTest
+   
    3.2 ReadingServiceTest
+   
    3.3 StationServiceTest
 
 # Sample Screenshot (Running the Test Project)
