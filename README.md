@@ -23,17 +23,28 @@ A. RainfallApi (Web API)
    2. Swashbuckle.AspNetCore.Annotations
       
 B. RainfallApi.Domain
+
    Projects: (none)
+   
    Packages: (none)
+   
 C. RainfallApi.Infrastructure
+
    Projects:
+   
    1. RainfallApi.Domain
+      
 D. RainfallApi.Testing
+
    Projects:
+   
    1. RainfallApi.Infrastructure
+      
    Packages:
+   
    1. Moq
-   2. xUnit
+      
+   3. xUnit
    
 # How to Run the API Project:
 1. Clone the repository
