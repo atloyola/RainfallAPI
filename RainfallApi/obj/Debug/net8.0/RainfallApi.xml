@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RainfallApi</name>
+    </assembly>
+    <members>
+        <member name="M:RainfallApi.Controllers.MeasuresController.GetAllMeasures(System.String)">
+            <summary>
+            List the available measures by station reference
+            </summary>        
+            <param name="stationReference"></param>
+            <returns> Return only those measures which are available from the station with the station reference identifier</returns>        
+            <response code="200">List of Available Measures Successfully Retrieved</response>
+            <response code="400">Invalid request</response>
+            <response code="404">No measures found for the specified station reference identifier.</response>
+            <response code="500">Internal server error</response>       
+        </member>
+        <member name="M:RainfallApi.Controllers.ReadingsController.GetReadingsByStationReference(System.String)">
+            <summary>
+            Get rainfall readings by station reference identifier
+            </summary>
+            <remarks>
+            Retrieve the latest rainfall readings for the specified station Id
+            </remarks>
+            <param name="stationReference"></param>
+            <returns> Return only those measures which are available from the station with the station reference identifier</returns>        
+            <response code="200">A list of rainfall readings successfully retrieved for the specified station Id</response>
+            <response code="400">Invalid request</response>
+            <response code="404">No readings found for the specified station reference identifier.</response>
+            <response code="500">Internal server error</response>       
+        </member>
+        <member name="M:RainfallApi.Controllers.StationsController.GetRainfallStations">
+            <summary>
+            Get list of all stations that offer a rainfall measurement
+            </summary>        
+            <returns> Returns a list of all stations that offer a rainfall measurement</returns>        
+            <response code="200">A list of stations successfully retrieved</response>
+            <response code="400">Invalid request</response>
+            <response code="404">No stations found that offer a rainfall measurement.</response>
+            <response code="500">Internal server error</response>               
+        </member>
+    </members>
+</doc>
