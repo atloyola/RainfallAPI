@@ -1,0 +1,15 @@
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\bin\Debug\net8.0\RainfallApi.Infrastructure.deps.json
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\bin\Debug\net8.0\RainfallApi.Infrastructure.dll
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\bin\Debug\net8.0\RainfallApi.Infrastructure.pdb
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\bin\Debug\net8.0\RainfallApi.Domain.dll
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\bin\Debug\net8.0\RainfallApi.Domain.pdb
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.AssemblyInfo.cs
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.csproj.CopyComplete
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.dll
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\refint\RainfallApi.Infrastructure.dll
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\RainfallApi.Infrastructure.pdb
+C:\Users\WIN10MAGIX\source\testrepos\RainfallApi\RainfallApi.Infrastructure\obj\Debug\net8.0\ref\RainfallApi.Infrastructure.dll

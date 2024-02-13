@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RainfallApi.Infrastructure/1.0.0": {
+        "dependencies": {
+          "RainfallApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RainfallApi.Infrastructure.dll": {}
+        }
+      },
+      "RainfallApi.Domain/1.0.0": {
+        "runtime": {
+          "RainfallApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RainfallApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RainfallApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
